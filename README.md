@@ -18,11 +18,11 @@ Feel free to fork, explore the code, or contribute enhancements!
 
 <p align="center">
   <a href="https://github.com/DennisBauer">
-    <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DennisBauer&show_icons=true&theme=dark" />
+    <img alt="Your GitHub Stats" src="./profile/stats.svg" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/DennisBauer">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisBauer&layout=compact&theme=dark" />
+    <img alt="Top Languages" src="./profile/top-langs.svg" />
   </a>
 </p>

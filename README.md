@@ -2,7 +2,7 @@
 
 ## 💼 Featured Project
 
-### [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)  ![GitHub Repo stars](https://img.shields.io/github/stars/DennisBauer/RecurringExpenseTracker?style=flat)
+### [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker)  ![GitHub Repo stars](https://img.shields.io/github/stars/DennisBauer/RecurringExpenseTracker?style=flat&link=https%3A%2F%2Fgithub.com%2FDennisBauer%2FRecurringExpenseTracker)
 
 A Material You themed, cross-platform recurring expense tracker built with Kotlin Multiplatform and Compose, featuring:  
 - 🧩 **Kotlin Multiplatform** core sharing business logic and resources across Android, iOS, and desktop targets (Windows, Linux, macOS)
